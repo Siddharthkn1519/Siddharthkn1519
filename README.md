@@ -6,7 +6,7 @@ I enjoy designing microservices, writing clean code, and contributing to open-so
 ## 🛠️ Tech Stack
 - **Languages:** Java, SQL, JavaScript
 - **Frameworks:** Spring Boot, Hibernate, Jakarta EE
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, Oracle SQL
 - **Tools:** Maven, Gradle, Docker, Jenkins, Git
 - **Cloud:** AWS, Azure
 
