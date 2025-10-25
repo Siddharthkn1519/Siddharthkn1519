@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Siddhartha K N
 
 I'm a **Java Developer** with experience in building robust, scalable, and secure backend applications.  
 I enjoy designing microservices, writing clean code, and contributing to open-source projects.
