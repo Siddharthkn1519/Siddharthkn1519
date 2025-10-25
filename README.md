@@ -1,14 +1,17 @@
 # 👋 Hi, I'm Siddhartha K N
 
-I'm a **Java Developer** with experience in building robust, scalable, and secure backend applications.  
-I enjoy designing microservices, writing clean code, and contributing to open-source projects.
+I'm a **Java and SQL Specialist** with hands-on experience in **DevOps** tools and practices.  
+I love designing robust backend systems, automating workflows, and deploying scalable applications.
+
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, SQL, JavaScript
 - **Frameworks:** Spring Boot, Hibernate, Jakarta EE
 - **Databases:** MySQL, Oracle SQL
-- **Tools:** Maven, Gradle, Docker, Jenkins, Git
+- **Tools:** Maven, Gradle, Docker, Jenkins, Git, Postman
 - **Cloud:** AWS, Azure
+- **DevOps Tools:** Docker | Jenkins | GitHub Actions | Kubernetes | CI/CD | AWS  
+
 
 ## 📂 Featured Projects
 - 🚀 [**Spring Boot REST API**](https://github.com/yourusername/springboot-api) – A complete CRUD REST service with JWT authentication.
